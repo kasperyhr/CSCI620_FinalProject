@@ -1,6 +1,6 @@
 # CSCI620_FinalProject
 
-This is the final project of CSCI 620 Operating System Security in NYIT - Vancouver Campus from Newer Younger Imperial Team. A PoC for educational purpose for CVE-2021-3156.
+This is the final project of CSCI 620 Operating System Security in NYIT - Vancouver Campus from Newer Younger Imperial Team. A PoC for educational purpose for CVE-2021-3156. You can also find the code: https://github.com/kasperyhr/CSCI620_FinalProject
 
 # Environment Setup
 
