@@ -8,4 +8,4 @@ exploit: exploit.c
 	$(CC) -O3 -o exploit exploit.c
 
 clean:
-	rm -rf libnss_x exploit
+	rm -rf libnss_nyit exploit
